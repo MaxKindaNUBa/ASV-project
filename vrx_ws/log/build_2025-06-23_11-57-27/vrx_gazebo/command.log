@@ -1,0 +1,5 @@
+Invoking command in '/home/chandran/vrx_ws/build/vrx_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/chandran/vrx_ws/src/vrx-2.3.3/vrx_urdf/vrx_gazebo -DCMAKE_INSTALL_PREFIX=/home/chandran/vrx_ws/install
+Invoked command in '/home/chandran/vrx_ws/build/vrx_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/chandran/vrx_ws/src/vrx-2.3.3/vrx_urdf/vrx_gazebo -DCMAKE_INSTALL_PREFIX=/home/chandran/vrx_ws/install
+Invoking command in '/home/chandran/vrx_ws/build/vrx_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/chandran/vrx_ws/build/vrx_gazebo -- -j20 -l20
+Invoked command in '/home/chandran/vrx_ws/build/vrx_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/chandran/vrx_ws/build/vrx_gazebo -- -j20 -l20
+Invoking command in '/home/chandran/vrx_ws/build/vrx_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/chandran/vrx_ws/build/vrx_gazebo

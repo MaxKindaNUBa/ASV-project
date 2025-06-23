@@ -1,0 +1,2 @@
+Invoking command in '/home/chandran/vrx_ws/build/vrx_ros': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/chandran/vrx_ws/src/vrx-2.3.3/vrx_ros -DCMAKE_INSTALL_PREFIX=/home/chandran/vrx_ws/install
+Invoked command in '/home/chandran/vrx_ws/build/vrx_ros' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/chandran/vrx_ws/src/vrx-2.3.3/vrx_ros -DCMAKE_INSTALL_PREFIX=/home/chandran/vrx_ws/install
